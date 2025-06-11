@@ -1,5 +1,3 @@
-Below is the README.md file for the LuminaLM Adaptive GPT project, written in Markdown and wrapped in a code block as requested. It provides an overview, installation instructions, usage examples, and other relevant details based on the provided context.
-
 ```markdown
 # LuminaLM Adaptive GPT
 
